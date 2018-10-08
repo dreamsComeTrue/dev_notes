@@ -4,6 +4,8 @@ https://typelevel.org/cats/ - Lightweight, modular, and extensible library for f
 
 https://scalaz.github.io - a Scala library for functional programming.
 
+https://monix.io/ - high-performance Scala / Scala.js library for composing asynchronous, event-based programs.
+
 https://www.playframework.com/ - makes it easy to build web applications with Java & Scala
 
 https://akka.io/ - a toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala
