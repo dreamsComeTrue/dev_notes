@@ -31,3 +31,9 @@ https://www.scala-lang.org/docu/files/ScalaReference.pdf
 https://inbravo.github.io/docs/refer/scala-in-depth.pdf
 
 https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf
+
+https://books.underscore.io/essential-scala/essential-scala.html
+
+https://books.underscore.io/scala-with-cats/scala-with-cats.html
+
+https://books.underscore.io/essential-play/essential-play.html
